@@ -1,0 +1,4 @@
+google-adk>=2.0.0
+a2a-sdk
+uvicorn
+pytest
